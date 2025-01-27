@@ -18,7 +18,6 @@ export default function Home() {
     <Stap/>
     <Featured/>
     <Scrvices/>
-    
     <Contact/>
     <Footer/>
     </>
