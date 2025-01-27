@@ -595,7 +595,7 @@ export default function Featured() {
                               className="properties-item-link w-inline-block"
                               aria-hidden="true"
                               href="https://airestates.webflow.io/properties/3-bedroom-detached-house-for-sale-2"
-                              tabIndex="-1"
+                              
                               style={{
                                 boxSizing: "border-box",
                                 WebkitFontSmoothing: "antialiased",
@@ -987,7 +987,7 @@ export default function Featured() {
                               className="properties-item-link w-inline-block"
                               aria-hidden="true"
                               href="https://airestates.webflow.io/properties/3-bedroom-detached-house-for-sale-3"
-                              tabIndex="-1"
+                              
                               style={{
                                 boxSizing: "border-box",
                                 WebkitFontSmoothing: "antialiased",
@@ -1379,7 +1379,7 @@ export default function Featured() {
                               className="properties-item-link w-inline-block"
                               aria-hidden="true"
                               href="https://airestates.webflow.io/properties/8-732-sqft-lot-oxford-in-uk"
-                              tabIndex="-1"
+                              
                               style={{
                                 boxSizing: "border-box",
                                 WebkitFontSmoothing: "antialiased",
@@ -1771,7 +1771,7 @@ export default function Featured() {
                               className="properties-item-link w-inline-block"
                               aria-hidden="true"
                               href="https://airestates.webflow.io/properties/8-732-sqft-lot-london-in-uk"
-                              tabIndex="-1"
+                              
                               style={{
                                 boxSizing: "border-box",
                                 WebkitFontSmoothing: "antialiased",
@@ -2116,7 +2116,7 @@ export default function Featured() {
                   aria-controls="w-slider-mask-0"
                   aria-label="previous slide"
                   role="button"
-                  tabIndex="0"
+                  
                   style={{
                     boxSizing: "border-box",
                     WebkitFontSmoothing: "antialiased",
@@ -2178,7 +2178,7 @@ export default function Featured() {
                   aria-controls="w-slider-mask-0"
                   aria-label="next slide"
                   role="button"
-                  tabIndex="0"
+                  
                   style={{
                     boxSizing: "border-box",
                     WebkitFontSmoothing: "antialiased",
@@ -2257,7 +2257,7 @@ export default function Featured() {
                     aria-label="Show slide 1 of 5"
                     aria-pressed="true"
                     role="button"
-                    tabIndex="0"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -2279,7 +2279,7 @@ export default function Featured() {
                     aria-label="Show slide 2 of 5"
                     aria-pressed="false"
                     role="button"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -2301,7 +2301,7 @@ export default function Featured() {
                     aria-label="Show slide 3 of 5"
                     aria-pressed="false"
                     role="button"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -2323,7 +2323,7 @@ export default function Featured() {
                     aria-label="Show slide 4 of 5"
                     aria-pressed="false"
                     role="button"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -2345,7 +2345,7 @@ export default function Featured() {
                     aria-label="Show slide 5 of 5"
                     aria-pressed="false"
                     role="button"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",

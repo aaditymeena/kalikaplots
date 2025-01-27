@@ -123,7 +123,7 @@ export default function Footer() {
                       className="form-input is-footer w-input"
                       name="email-2"
                       type="email"
-                      maxLength="256"
+                      
                       required
                       placeholder="Enter your email"
                       style={{
@@ -219,7 +219,7 @@ export default function Footer() {
                     className="success-message w-form-done"
                     aria-label="Email Form success"
                     role="region"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -242,7 +242,7 @@ export default function Footer() {
                     className="error-message w-form-fail"
                     aria-label="Email Form failure"
                     role="region"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -298,7 +298,7 @@ export default function Footer() {
                       backgroundColor: "rgba(0, 0, 0, 0)",
                       borderColor: "#181f1a",
                       textDecoration: "none",
-                      cssFloat: "left",
+                      
                       color: "rgb(51, 51, 51)",
                       position: "relative",
                       paddingLeft: "0px",

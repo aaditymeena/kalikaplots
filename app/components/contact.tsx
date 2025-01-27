@@ -177,7 +177,7 @@ export default function Contact() {
                           className="form-input w-input"
                           name="Contact-full-name"
                           type="text"
-                          maxLength="256"
+                         
                           required
                           placeholder="Full name"
                           style={{
@@ -226,7 +226,7 @@ export default function Contact() {
                           className="form-input w-input"
                           name="Contact-Email"
                           type="email"
-                          maxLength="256"
+                         
                           required
                           placeholder="example@email.com"
                           style={{
@@ -282,7 +282,7 @@ export default function Contact() {
                         className="form-input w-input"
                         name="Contact-number"
                         type="tel"
-                        maxLength="256"
+                       
                         required
                         placeholder="123 4567"
                         style={{
@@ -330,7 +330,7 @@ export default function Contact() {
                         id="Contact-Message"
                         className="form-input is-text-area w-input"
                         name="Contact-Message"
-                        maxLength="5000"
+                        
                         placeholder="Type your message..."
                         style={{
                           boxSizing: "border-box",
@@ -398,7 +398,7 @@ export default function Contact() {
                     className="success-message w-form-done"
                     aria-label="Contact Form success"
                     role="region"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
@@ -424,7 +424,7 @@ export default function Contact() {
                     className="error-message w-form-fail"
                     aria-label="Contact Form failure"
                     role="region"
-                    tabIndex="-1"
+                    
                     style={{
                       boxSizing: "border-box",
                       WebkitFontSmoothing: "antialiased",
